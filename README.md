@@ -1,2 +1,2 @@
 # AutoInstaK
-Proyek ini adalah skrip Kotlin yang dirancang untuk mengotomatiskan berbagai perintah pada perangkat Android yang terhubung. Script ini dapat membantu melakukan berbagai tindakan pada perangkat Android, seperti mengirim input teks, mengklik koordinat layar.
+This project is a Kotlin script designed to automate various commands on connected Android devices. This script can assist in performing various actions on Android devices, such as sending text input and clicking on screen coordinates.
